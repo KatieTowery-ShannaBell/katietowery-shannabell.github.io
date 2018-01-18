@@ -24,6 +24,19 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+![Room1_360.mp4](src)
+![Room2_360.mp4](src)
+![Room3_360.mp4](src)
+![Room4_360.mp4](src)
+![Room5_360.mp4](src)
+![Room6_360.mp4](src)
+![Room7_360.mp4](src)
+![Room8_360.mp4](src)
+![Room9_360.mp4](src)
+![Room10_360.mp4](src)
+![Room11_360.mp4](src)
+![Room12_360.mp4](src)
+![Room13_360.mp4](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
