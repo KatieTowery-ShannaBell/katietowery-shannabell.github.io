@@ -24,7 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-![Room1_360.mp4](https://github.com/KatieTowery-ShannaBell/katietowery-shannabell.github.io/blob/master/Room1_360.mp4.JPGsrc)
+![Room1_360.mp4](src)
 ![Room2_360.mp4](src)
 ![Room3_360.mp4](src)
 ![Room4_360.mp4](src)
